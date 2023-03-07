@@ -29,7 +29,8 @@ import bel from "./company/bel.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import EnligtenMe from "../assets/EnlightenMe.png";
+import todo from "../assets/todo.png";
 
 export {
   logo,
@@ -59,6 +60,7 @@ export {
   tesla,
   bel,
   carrent,
+  todo,
+  EnligtenMe,
   jobit,
-  tripguide,
 };
