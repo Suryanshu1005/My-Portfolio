@@ -28,8 +28,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import bel from "./company/bel.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+
 import enlightenMe from './enlightenMe.png';
 import todo from "./todo.png";
 import auth from "./auth.png";
@@ -63,8 +62,6 @@ export {
   starbucks,
   tesla,
   bel,
-  carrent,
   todo,
   enlightenMe,
-  jobit,
 };

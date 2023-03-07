@@ -22,8 +22,6 @@ import {
     auth,
     tesla,
     shopify,
-    carrent,
-    jobit,
     enlightenMe,
     threejs,
   } from "../assets";
