@@ -31,9 +31,13 @@ import {
       id: "about",
       title: "About me",
     },
+    
     {
       id: "work",
       title: "My Work",
+    },{
+      id: "resume",
+      title: "My Resume",
     },
     {
       id: "contact",
