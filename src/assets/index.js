@@ -30,7 +30,7 @@ import bel from "./company/bel.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import EnligtenMe from "./EnlightenMe.png";
+import enlightenMe from "./enlightenMe.png";
 import todo from "./todo.png";
 import auth from "./auth.png";
 
@@ -65,6 +65,6 @@ export {
   bel,
   carrent,
   todo,
-  EnligtenMe,
+  enlightenMe,
   jobit,
 };
