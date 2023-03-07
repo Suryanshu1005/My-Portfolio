@@ -24,7 +24,7 @@ import {
     shopify,
     carrent,
     jobit,
-    EnligtenMe,
+    enlightenMe,
     threejs,
   } from "../assets";
   
@@ -261,7 +261,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: EnligtenMe,
+      image: enlightenMe,
       source_code_link: "https://github.com/Suryanshu1005/Give-me-advice",
       project_link:"https://curious-dolphin-9b9e10.netlify.app/",
     },
