@@ -30,7 +30,7 @@ import bel from "./company/bel.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import enlightenMe from "./enlightenMe.png";
+import enlightenMe from "..assets/enlightenMe.png";
 import todo from "./todo.png";
 import auth from "./auth.png";
 
