@@ -30,9 +30,9 @@ import bel from "./company/bel.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import EnligtenMe from "../assets/EnlightenMe.png";
-import todo from "../assets/todo.png";
-import auth from "../assets/auth.png";
+import EnligtenMe from "./EnlightenMe.png";
+import todo from "./todo.png";
+import auth from "./auth.png";
 
 export {
   logo,
