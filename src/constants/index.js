@@ -19,6 +19,7 @@ import {
     starbucks,
     bel,
     todo,
+    auth,
     tesla,
     shopify,
     carrent,
@@ -200,9 +201,9 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Task manager",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to add, delete or update any existing task, providing a convenient and efficient solution for time management.",
       tags: [
         {
           name: "react",
@@ -219,14 +220,15 @@ import {
       ],
       image: todo,
       source_code_link: "https://github.com/Suryanshu1005/Task-manager-2",
+      project_link:"https://legendary-souffle-5de450.netlify.app/",
     },
     {
-      name: "Job IT",
+      name: "User Authentication",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "It is a Web application that enables users to create their account and log in with the registered user name and password where they can keep their secret notes protected",
       tags: [
         {
-          name: "react",
+          name: "python",
           color: "blue-text-gradient",
         },
         {
@@ -234,24 +236,24 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "flask",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: auth,
+      source_code_link: "https://github.com/Suryanshu1005/Login-authentication-using-flask",
     },
     {
-      name: "Trip Guide",
+      name: "Enlighten Me",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "It is a web based application that uses advice api where user when clicks on the button gets a random advices. Who knows what comes handy and when.",
       tags: [
         {
-          name: "nextjs",
+          name: "reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "nodejs",
           color: "green-text-gradient",
         },
         {
@@ -260,7 +262,8 @@ import {
         },
       ],
       image: EnligtenMe,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Suryanshu1005/Give-me-advice",
+      project_link:"https://curious-dolphin-9b9e10.netlify.app/",
     },
   ];
   
